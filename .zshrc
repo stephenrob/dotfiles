@@ -1,6 +1,10 @@
 # Path to your dotfiles installation.
 export DOTFILES=$HOME/.dotfiles
 
+# Development folder
+
+export DEVELOPMENT=/Volumes/Development
+
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 
