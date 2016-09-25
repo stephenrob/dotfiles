@@ -11,10 +11,9 @@ Follow these install instructions to setup a new Mac.
 5. Clone this repo to `~/.dotfiles`
 6. Append `/usr/local/bin/zsh` to the end of your `/etc/shells` file
 7. Run `install.sh` to start the installation
-8. Make sure Dropbox is set up and synced
-9. [Install the remaining apps](./apps.md)
-10. Restore preferences by running `mackup restore`
-11. Restart your computer to finalize the process
+8. Make sure iCloud is set up and synced
+9. Restore preferences by running `mackup restore`
+10. Restart your computer to finalize the process
 
 Your Mac is now ready to use!
 
@@ -22,7 +21,7 @@ Your Mac is now ready to use!
 
 If you want to start your own dotfiles from this setup, it's pretty easy to do so. First of all you'll need to fork this repo. After that you can tweak it the way you want.
 
-Go through the [`.osx`](./.osx) file and adjust the settings to your liking. You can find much more settings at [the original script by Mathias Bynens](https://github.com/mathiasbynens/dotfiles/blob/master/.osx) and [Kevin Suttle's OSX Defaults project](https://github.com/kevinSuttle/OSXDefaults).
+Go through the [`.macos`](./.macos) file and adjust the settings to your liking. You can find much more settings at [the original script by Mathias Bynens](https://github.com/mathiasbynens/dotfiles/blob/master/.osx) and [Kevin Suttle's OSX Defaults project](https://github.com/kevinSuttle/OSXDefaults).
 
 Check out the [`Brewfile`](./Brewfile) file and adjust the apps you want to install for your machine. Use [their search page](https://caskroom.github.io/search) to check if the app you want to install is available.
 
