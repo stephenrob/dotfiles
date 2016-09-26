@@ -9,7 +9,7 @@ alias weather="curl -4 http://wttr.in"
 alias dotfiles="cd $DOTFILES"
 alias library="cd $HOME/Library"
 alias dev="cd $DEVELOPMENT"
-alias dit="cd $DEVELOPMENT/DIT
+alias dit="cd $DEVELOPMENT/DIT"
 
 # Vagrant
 alias v="vagrant global-status"
