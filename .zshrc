@@ -79,3 +79,5 @@ export LANG=en_GB.UTF-8
 # export SSH_KEY_PATH="~/.ssh/dsa_id"
 
 eval "$(rbenv init -)"
+
+export JAVA_HOME=$(/usr/libexec/java_home)
