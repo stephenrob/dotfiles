@@ -74,6 +74,7 @@ cask 'zoomus'
 cask 'insomnia'
 cask 'postman'
 cask 'java'
+cask 'istat-menus'
 
 # Quicklook
 cask 'qlcolorcode'
@@ -86,3 +87,8 @@ cask 'qlstephen'
 cask 'font-source-code-pro'
 cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
+
+# Mac App Store Items
+
+mas "Airmail 3", id: 918858936
+mas "Moom", id: 419330170
