@@ -38,6 +38,7 @@ brew 'wget'
 # Development
 brew 'postgresql'
 brew 'kubectl'
+brew 'terraform'
 cask 'keybase'
 cask 'gpg-suite'
 
