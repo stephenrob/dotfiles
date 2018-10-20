@@ -73,6 +73,7 @@ cask 'amazon-workspaces'
 cask 'zoomus'
 cask 'insomnia'
 cask 'postman'
+cask 'java'
 
 # Quicklook
 cask 'qlcolorcode'
