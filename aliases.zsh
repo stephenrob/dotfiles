@@ -47,5 +47,5 @@ alias tfr="terraform refresh"
 alias tfo="terraform output"
 
 # Kops Cluster Scripts
-alias kopscreate="/Volumes/Development/code/scratch/kops-cluster-scripts/create_cluster.sh"
-alias kopsinit="/Volumes/Development/code/scratch/kops-cluster-scripts/init_cluster.sh"
+alias kopscreate="${DEVELOPMENT}/code/scratch/kops-cluster-scripts/create_cluster.sh"
+alias kopsinit="${DEVELOPMENT}/code/scratch/kops-cluster-scripts/init_cluster.sh"

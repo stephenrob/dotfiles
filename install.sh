@@ -33,4 +33,4 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 
 # Set OS X preferences
 # We will run this last because this will reload the shell
-source .macos
+# source .macos
