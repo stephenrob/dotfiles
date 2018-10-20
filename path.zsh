@@ -14,3 +14,5 @@ export PATH="$DOTFILES/bin:$PATH"
 
 # Local bin directories before anything else
 export PATH="/usr/local/bin:/usr/local/sbin:$PATH"
+
+export PATH=$PATH:/usr/local/opt/go/libexec/bin
