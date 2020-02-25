@@ -19,14 +19,14 @@ chsh -s $(which zsh)
 
 # Install Ruby and Rails
 rbenv init
-rbenv install 2.5.1
-rbenv global 2.5.1
+rbenv install 2.7.0
+rbenv global 2.7.0
 rbenv rehash
-gem install rails
+gem install rails -v 6.0.2.1
 rbenv rehash
 
 # Install nvm
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.2/install.sh | bash
 
 # Install ohmyzsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
