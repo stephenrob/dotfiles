@@ -41,6 +41,7 @@ brew 'kubectl'
 brew 'terraform'
 cask 'keybase'
 cask 'gpg-suite'
+cask 'java'
 
 # App Management
 brew 'mas'
